@@ -20,7 +20,7 @@ QR Code Generator is a simple Node.js project designed to convert any URL into a
 1. **Clone the Repository:** Start by cloning the project to your local machine.
 
     ```bash
-    git clone https://github.com/username/qr-code-generator.git
+    git clone https://github.com/GavriloaiaMircea/QR-image-generator.git
     cd qr-code-generator
     ```
 
